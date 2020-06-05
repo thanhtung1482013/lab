@@ -1,0 +1,64 @@
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">  
+    <center>
+        
+        <form class="form1" method="post" id="login">
+            <h1 class="section">SIGN IN</h1>
+                <div class="signin-box">
+                    Username: <input type="text" name="username"> <br><br>
+                    Password: <input type="text" name="password"> <br><br>
+                    <input type="submit" class="submit-box" name="login" value="LOGIN">
+                </div>
+            <hr>
+        </form>
+        
+        <form class="form2" action="Signup.php" method="post">
+            <h1 class="section">SIGN UP</h1>
+                <div class="signin-box">
+                    Username: <input type="text" name="username"> <br><br>
+                    Password: <input type="text" name="password"> <br><br>
+                    FirstName:<input type="text" name="fname" id="fname"> <br><br>
+                    LastName: <input type="text" name="lname" id="lname"> <br><br>
+                    Gender:           <br>  
+                    Male &nbsp; <input type="radio" name="gender">   Female &nbsp; <input type="radio" name="gender"> <br><br>
+                    <input type="submit" class="submit-box" name="signup" value="SIGN UP">
+                </div>
+           
+        </form>
+        
+    </center>
+
+    </head>
+<body background="LoginBody.PNG" width=1920 height=1080 >
+    
+    
+
+<?php
+if($_POST){
+   if(isset($_POST['login'])) 
+     {
+        if(isempty($_POST['username']))
+        
+            echo "Please enter your username!";
+        }
+        else
+        {
+            $u = $_POST['username'];
+        }
+        if($_POST['password']==null)
+        {
+            echo("Please enter your password!");
+        }
+        else
+        {
+            $p = $_POST['password'];
+        }
+     }  
+   
+?>
+        </body>
+
+
+</html>
