@@ -36,8 +36,8 @@
                     
                    <li>
                         <ul class="dropdown">
-                            <button  href="DatabaseIndex.php" class="dropbtn" > Index DataBase</a> </button>
-                            <button  href="ConnectToDB.php" class="dropbtn" > Index DataBase</a> </button>
+                            <button  href="DatabaseIndex.php" class="dropbtn" > Index DataBase </button>
+                            <button  href="ConnectToDB.php" class="dropbtn" > Index DataBase </button>
                        </ul>
                    </li>
              
