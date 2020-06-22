@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Delete product where productid = 'pro03' in DATABASE</h1>
+<h1>Delete product where productid = 'pro06' in DATABASE</h1>
 
 <?php
 ini_set('display_errors', 1);
@@ -28,7 +28,7 @@ if (empty(getenv("DATABASE_URL"))){
    ));
 }  
 
-$sql = "DELETE FROM product where productid = 'pro03'";
+$sql = "DELETE FROM product where productid = 'pro06'";
 $stmt = $pdo->prepare($sql);
 if($stmt->execute() == TRUE){
     echo "Record deleted successfully.";

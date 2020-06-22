@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>UPDATE Receipt SET date = '2020-12-12' WHERE receiptid = 're01' and customerid = 'cus01' TO DATABASE</h1>
+<h1>UPDATE Receipt SET date = '2020-02-01' WHERE receiptid = 're01' and customerid = 'cus01' TO DATABASE</h1>
 
 <?php
 ini_set('display_errors', 1);
@@ -41,7 +41,7 @@ if (empty(getenv("DATABASE_URL"))){
 
         // return the number of row affected
         //return $stmt->rowCount();
-$sql = "UPDATE receipt SET date = '2020-12-12' WHERE receiptid = 're01' and customerid = 'cus01'";
+$sql = "UPDATE receipt SET date = '2020-02-01' WHERE receiptid = 're01' and customerid = 'cus01'";
       $stmt = $pdo->prepare($sql);
 if($stmt->execute() == TRUE){
     echo "Record updated successfully.";

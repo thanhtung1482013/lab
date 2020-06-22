@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Delete receipt where receipt = 're01' in DATABASE</h1>
+<h1>Delete receipt where receipt = 're07' in DATABASE</h1>
 
 <?php
 ini_set('display_errors', 1);
@@ -28,7 +28,7 @@ if (empty(getenv("DATABASE_URL"))){
    ));
 }  
 
-$sql = "DELETE FROM receipt where receiptid = 're03'";
+$sql = "DELETE FROM receipt where receiptid = 're07'";
 $stmt = $pdo->prepare($sql);
 if($stmt->execute() == TRUE){
     echo "Record deleted successfully.";

@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>UPDATE Product SET price = 9999 WHERE productid = 'pro01'" TO DATABASE</h1>
+<h1>UPDATE Product SET price = 8888 WHERE productid = 'pro01'" TO DATABASE</h1>
 
 <?php
 ini_set('display_errors', 1);
@@ -41,7 +41,7 @@ if (empty(getenv("DATABASE_URL"))){
 
         // return the number of row affected
         //return $stmt->rowCount();
-$sql = "UPDATE product SET price = 9999 WHERE productid = 'pro01'";
+$sql = "UPDATE product SET price = 8888 WHERE productid = 'pro01'";
       $stmt = $pdo->prepare($sql);
 if($stmt->execute() == TRUE){
     echo "Record updated successfully.";

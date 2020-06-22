@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Delete customer where customerid = 'cus02' in DATABASE</h1>
+<h1>Delete customer table where customerid = 'cus02' in DATABASE</h1>
 
 <?php
 ini_set('display_errors', 1);

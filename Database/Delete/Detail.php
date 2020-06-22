@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Delete detail where receipt = 're01' and productid='pro07' in DATABASE</h1>
+<h1>Delete detail where receipt = 're03' and productid='pro03' in DATABASE</h1>
 
 <?php
 ini_set('display_errors', 1);
