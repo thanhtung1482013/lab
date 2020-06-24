@@ -15,7 +15,7 @@ list-style: none;
 <ul>
     <form name="InsertReceiptData" action="InsertReceipt.php" method="POST" >
         <li>Receipt ID:</li><li><input type="text" name="receiptid" placeholder="Required input" /></li>
-        <li>Customer ID:</li><li><input type="text" name="customerid"  placeholder="Required input"/></li>
+        <li>Customer ID:</li><li><input type="text" name="customerid" /></li>
         <li>Date:</li><li><input type="text" name="date" /></li>
         <br>
         <li><input type="submit" /></li>
@@ -60,10 +60,7 @@ $stmt = $pdo->prepare($sql);
  if (is_null($_POST[receiptid])) {
    echo "Receipt ID must be not null";
  }
- elseif (is_null($_POST[customerid])){
- 
-    echo "Customer ID must be not null";
- }
+
  
  else
  {
