@@ -65,8 +65,8 @@
                     <a>from a unique gaming machine to deliver top-notch performance </a><br>
                     <a>unrivaled image quality, comprehensive control when ...</a> <br><br>
                 <button class="button"> 8GB/128GB: 200,000 VND </button> <br><br>
-                <button class="button"> 8GB/512GB: 990,000 VND </button>
-                <a href="" > Oder insert Data </a>
+                <button class="button"> 8GB/512GB: 990,000 VND </button> <br><br>
+                <a href="" > Oder insert Data </a> <br><br>
                 <a href="" > View Data </a>
                 </div>
              
@@ -78,8 +78,8 @@
                     <a>from a unique gaming machine to deliver top-notch performance </a><br>
                     <a>unrivaled image quality, comprehensive control when ...</a> <br><br>
                     <button class="button"> 4GB/64GB: 250,000 VND </button> <br><br>
-                    <button class="button"> 3GB/32GB: 1,290,000 VND </button>
-                    <a href="DatabaseIndex.php" > Oder insert Data </a>
+                    <button class="button"> 3GB/32GB: 1,290,000 VND </button> <br><br>
+                    <a href="DatabaseIndex.php" > Oder insert Data </a> <br><br>
                     <a href="ConnectToDB.php" > View Data </a>
                 </div>                
             </div>
@@ -90,7 +90,7 @@
                     <a>SAILOR MOON TOY</a> <br>
                     <a>Large screen size, "more" experience</a><br><br>
                     <button class="button"> 6GB/64GB: 450,000 VND </button> <br><br>
-                    <a href="DatabaseIndex.php" > Oder insert Data </a>
+                    <a href="DatabaseIndex.php" > Oder insert Data </a> <br><br>
                     <a href="ConnectToDB.php" > View Data </a>
                 </div>                
             </div>   
@@ -101,7 +101,7 @@
                     <a>TUXEDO MARK</a> <br>
                     <a>Design molting, creating new trends</a><br><br>
                     <button class="button"> 8GB/128GB: 550,000 VND </button> <br><br>
-                    <a href="DatabaseIndex.php" > Oder insert Data </a>
+                    <a href="DatabaseIndex.php" > Oder insert Data </a> <br><br>
                     <a href="ConnectToDB.php" > View Data </a>
                 </div>                
             </div> 
@@ -112,7 +112,7 @@
                     <a>UNDERWEARBOY</a> <br>
                     <a>Better , Faster , Cooler</a><br><br>
                     <button class="button"> 550.000 VND </button> <br><br>
-                    <a href="DatabaseIndex.php" > Oder insert Data </a>
+                    <a href="DatabaseIndex.php" > Oder insert Data </a> <br><br>
                     <a href="ConnectToDB.php" > View Data </a>
                 </div>                
             </div>  
@@ -123,7 +123,7 @@
                     <a>BOXBABY</a> <br>
                     <a>Better , Faster , Cooler</a><br><br>
                     <button class="button"> 550,000 VND </button> <br><br>
-                    <a href="DatabaseIndex.php" > Oder insert Data </a>
+                    <a href="DatabaseIndex.php" > Oder insert Data </a> <br><br>
                     <a href="ConnectToDB.php" > View Data </a>
                 </div>    
                           
@@ -133,7 +133,7 @@
                     <a>Ranger TOY </a> <br>
                     <a>Better , Faster , Cooler</a><br><br>
                     <button class="button">  550,000 VND </button> <br><br>
-                    <a href="DatabaseIndex.php" > Oder insert Data </a>
+                    <a href="DatabaseIndex.php" > Oder insert Data </a> <br><br>
                     <a href="ConnectToDB.php" > View Data </a>
                 </div>    
             </div>  
