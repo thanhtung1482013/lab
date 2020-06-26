@@ -1,5 +1,5 @@
 <html>
-    <head>
+ <head>
         
         <title> SMART STORE </title>
         <link rel="stylesheet" href="style.css">          
@@ -8,7 +8,7 @@
        <div class="TopBar">
            <div class="Bar-inside" >
                <ul>
-                   <a><img class="logo-img" src="Logo.jpg" ></a> 
+                   <a><img class="logo-img" src="Logo.jpg" ></a>
                    <div class="logo-text"><br>
                         <a class="SMART">SMART</a>
                         <a class="STORE">STORE</a>
@@ -36,8 +36,7 @@
                     
                    <li>
                         <ul class="dropdown">
-                            <a  href="DatabaseIndex.php" class="dropbtn" > Index DataBase </a>
-                            <a  href="ConnectToDB.php" class="dropbtn" > Index DataBase </a>
+                            <button href="#" class="dropbtn"> SUPPORT </button>
                        </ul>
                    </li>
              
@@ -48,132 +47,82 @@
                    <li>
                        <a href="Login%20and%20Signup.html" class="signup-btn"><span> Sign Up </span></a>
                    </li>
-                   
-                  
             </ul>
           </div>
         </div>
     </head>
-           
-    <body style="background-color:#222222" > 
-        
-        <div class="main_video">
-            <video width="auto" height="auto" autoplay="autoplay" loop muted> 
-                <source src="finger%20ID%20main_page.mp4" type="video/mp4" >
-            </video>
-        </div>
-        
-        <div class="content_main">
-            <div class="content">
-            <h1> WHAT DO WE HAVE IN HERE ? </h1>
-            <p> + Here, we have a security system with fingerprints to assist buyers <br>
-                + Our shop imports the leading equipment products from famous companies in the world.<br>
-                + I bet you will enjoy when click in GO SHOP NOW below:
-            </p>
+    
+    <body>
+    
+        <div class="product">
+            <div class="row-product">
+                <div class="product-content">
+                    
+                <div class="information">
+                    <img class="pic1" src="Rog%20Asus.jpg" ><br>
+                    <a>ROG PHONE 2 ASUS TOY</a> <br>
+                    <a>The smartphone model changes the game-inspired design rules </a><br>
+                    <a>from a unique gaming machine to deliver top-notch performance </a><br>
+                    <a>unrivaled image quality, comprehensive control when ...</a> <br><br>
+                    <a href="DatabaseIndex.php" > 8GB/128GB: 19,990,000 VND </a> <br><br>
+                    <a href="DatabaseIndex.php" > 8GB/512GB: 23,990,000 VND </a>
+                </div>
+             
+            <div class="product-content">
+                <div class="information">
+                    <img class="pic1" src="Zenfone%20Max%20Pro%20M2.jpeg" ><br>
+                    <a>ZENFONE MAX PRO M2 TOY</a> <br>
+                    <a>Max Performance: 3 times faster with Snapdragon ™ 660 AIE 14nm</a><br>
+                    <a>from a unique gaming machine to deliver top-notch performance </a><br>
+                    <a>unrivaled image quality, comprehensive control when ...</a> <br><br>
+                    <a href="DatabaseIndex.php" > 4GB/64GB: 5,990,000 VND </a> <br><br>
+                    <a href="DatabaseIndex.php" > 3GB/32GB: 5,290,000 VND </a>
+                </div>                
+            </div>
+                
+               <div class="product-content">
+                <div class="information">
+                    <img class="pic1" src="samsung%20galaxy%20a70.jpg" ><br><br>
+                    <a>SAMSUNG GALAXY A70 TOY</a> <br>
+                    <a>Large screen size, "more" experience</a><br><br>
+                    <a href="DatabaseIndex.php" > 6GB/64GB: 9,290,000 VND </a> <br><br>
+                </div>                
+            </div>   
+                
+                <div class="product-content">
+                <div class="information">
+                    <img class="pic1" src="samsung%20galaxy%20s10.jpg" ><br><br>
+                    <a>SAMSUNG GALAXY S10 TOY</a> <br>
+                    <a>Design molting, creating new trends</a><br><br>
+                    <a href="DatabaseIndex.php" > 8GB/128GB: 20,990,000 VND </a> <br><br>
+                </div>                
+            </div> 
+                    
+                      <div class="product-content">
+                <div class="information">
+                    <img class="pic1" src="Acer%20Predator%20Helios%20300.jpg" ><br><br>
+                    <a>ACER PREDATOR HELIOS 300 TOY</a> <br>
+                    <a>Better , Faster , Cooler</a><br><br>
+                    <a href="DatabaseIndex.php" > 29.690.000 VND </a> <br><br>
+                </div>                
+            </div>  
+                
+                            <div class="product-content">
+                <div class="information">
+                    <img class="pic1" src="Acer%20Predator%20Helios%20500.png" ><br><br>
+                    <a>ACER PREDATOR HELIOS 500 TOY</a> <br>
+                    <a>Better , Faster , Cooler</a><br><br>
+                    <a href="DatabaseIndex.php" > 29.690.000 VND </a> <br><br>
+                </div>                
+            </div>  
+                    
+                </div>
             </div>
         </div>
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>      
-     <h2 class="NameSlide" style="text-align:center">All PRODUCT</h2>
-
-<div class="slide-container">
-  <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
-    <center><img src="Rog%20Asus.jpg" style="width:70%"></center>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
-    <center><img src="Zenfone%20Max%20Pro%20M2.jpeg" style="width:70%"></center>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
-    <img src="samsung%20galaxy%20a70.jpg" style="width:100%">
-  </div>
     
-  <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
-    <img src="samsung%20galaxy%20s10.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
-    <img src="Gtx%201060.jpg" style="width:100%">
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
-    <img src="GTX%201070.jpg" style="width:100%">
-  </div>
-    
-  <a class="prev" onclick="plusSlides(-1)">❮</a>
-  <a class="next" onclick="plusSlides(1)">❯</a>
-
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
-
-  <div class="row-mySlides">
-      <div class="row-myslides-all">
-    <div class="column">
-      <img class="demo cursor1" src="Rog%20Asus.jpg" style="width:100%" onclick="currentSlide(1)" alt="ROG ASUS">
-    </div>
-    <div class="column">
-      <img class="demo cursor2" src="Zenfone%20Max%20Pro%20M2.jpeg" style="width:100%" onclick="currentSlide(2)" alt="ZenFone Max 2 Pro">
-    </div>
-    <div class="column">
-      <img class="demo cursor3" src="samsung%20galaxy%20a70.jpg" style="width:100%" onclick="currentSlide(3)" alt="Samsung Galaxy A70">
-    </div>
-    <div class="column">
-      <img class="demo cursor4" src="samsung%20galaxy%20s10.jpg" style="width:100%" onclick="currentSlide(4)" alt="Samsung Galaxy S10">
-    </div>
-    <div class="column">
-      <img class="demo cursor5" src="Gtx%201060.jpg" style="width:100%" onclick="currentSlide(5)" alt="GTX 1060">
-    </div>    
-    <div class="column">
-      <img class="demo cursor6" src="GTX%201070.jpg" style="width:100%" onclick="currentSlide(6)" alt="GTX1070">
-    </div>
-     </div>
-  </div>
-</div>
-
-<script>
-var slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  var captionText = document.getElementById("caption");
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-  captionText.innerHTML = dots[slideIndex-1].alt;
-}
-</script>   
-        
-        <br> <br> <br> <br> <br> <br> <br> <br> <br>
-        <div class="goshopbox" >
-        <button onclick="window.location.href = 'PRODUCT.html';" class="goshop">GO SHOP NOW</button>
-        </div>
-        
+         
+        <div class="background-footer">
+            
         <div class="footer">
             <a> This website is referenced on the available websites </a> <br>
             <a> Extracted from the Reference section of the Frontsheet </a> <br>
@@ -205,20 +154,11 @@ function showSlides(n) {
                     </div>
                 </div>
             </div>
+        </div>
             
         </div>
-
-        
         
     </body>
-    
-   
-   
-
-
-
-
-
 
 
 </html>
