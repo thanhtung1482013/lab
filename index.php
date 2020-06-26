@@ -60,59 +60,59 @@
                     
                 <div class="information">
                     <img class="pic1" src="Rog%20Asus.jpg" ><br>
-                    <a>ROG PHONE 2 ASUS TOY</a> <br>
+                    <a>ROG PHONE 2 ASUS</a> <br>
                     <a>The smartphone model changes the game-inspired design rules </a><br>
                     <a>from a unique gaming machine to deliver top-notch performance </a><br>
                     <a>unrivaled image quality, comprehensive control when ...</a> <br><br>
-                    <a href="DatabaseIndex.php" > 8GB/128GB: 19,990,000 VND </a> <br><br>
-                    <a href="DatabaseIndex.php" > 8GB/512GB: 23,990,000 VND </a>
+                <button class="button"> 8GB/128GB: 19,990,000 VND </button> <br><br>
+               <button class="button"> 8GB/512GB: 23,990,000 VND </button>
                 </div>
              
             <div class="product-content">
                 <div class="information">
                     <img class="pic1" src="Zenfone%20Max%20Pro%20M2.jpeg" ><br>
-                    <a>ZENFONE MAX PRO M2 TOY</a> <br>
+                    <a>ZENFONE MAX PRO M2</a> <br>
                     <a>Max Performance: 3 times faster with Snapdragon ™ 660 AIE 14nm</a><br>
                     <a>from a unique gaming machine to deliver top-notch performance </a><br>
                     <a>unrivaled image quality, comprehensive control when ...</a> <br><br>
-                    <a href="DatabaseIndex.php" > 4GB/64GB: 5,990,000 VND </a> <br><br>
-                    <a href="DatabaseIndex.php" > 3GB/32GB: 5,290,000 VND </a>
+                    <button class="button"> 4GB/64GB: 5,990,000 VND </button> <br><br>
+                    <button class="button"> 3GB/32GB: 5,290,000 VND </button>
                 </div>                
             </div>
                 
                <div class="product-content">
                 <div class="information">
                     <img class="pic1" src="samsung%20galaxy%20a70.jpg" ><br><br>
-                    <a>SAMSUNG GALAXY A70 TOY</a> <br>
+                    <a>SAMSUNG GALAXY A70</a> <br>
                     <a>Large screen size, "more" experience</a><br><br>
-                    <a href="DatabaseIndex.php" > 6GB/64GB: 9,290,000 VND </a> <br><br>
+                    <button class="button"> 6GB/64GB: 9,290,000 VND </button> <br><br>
                 </div>                
             </div>   
                 
                 <div class="product-content">
                 <div class="information">
                     <img class="pic1" src="samsung%20galaxy%20s10.jpg" ><br><br>
-                    <a>SAMSUNG GALAXY S10 TOY</a> <br>
+                    <a>SAMSUNG GALAXY S10</a> <br>
                     <a>Design molting, creating new trends</a><br><br>
-                    <a href="DatabaseIndex.php" > 8GB/128GB: 20,990,000 VND </a> <br><br>
+                    <button class="button"> 8GB/128GB: 20,990,000 VND </button> <br><br>
                 </div>                
             </div> 
                     
                       <div class="product-content">
                 <div class="information">
                     <img class="pic1" src="Acer%20Predator%20Helios%20300.jpg" ><br><br>
-                    <a>ACER PREDATOR HELIOS 300 TOY</a> <br>
+                    <a>ACER PREDATOR HELIOS 300</a> <br>
                     <a>Better , Faster , Cooler</a><br><br>
-                    <a href="DatabaseIndex.php" > 29.690.000 VND </a> <br><br>
+                    <button class="button"> 29.690.000 VND </button> <br><br>
                 </div>                
             </div>  
                 
                             <div class="product-content">
                 <div class="information">
                     <img class="pic1" src="Acer%20Predator%20Helios%20500.png" ><br><br>
-                    <a>ACER PREDATOR HELIOS 500 TOY</a> <br>
+                    <a>ACER PREDATOR HELIOS 500</a> <br>
                     <a>Better , Faster , Cooler</a><br><br>
-                    <a href="DatabaseIndex.php" > 29.690.000 VND </a> <br><br>
+                    <button class="button"> 29.690.000 VND </button> <br><br>
                 </div>                
             </div>  
                     
